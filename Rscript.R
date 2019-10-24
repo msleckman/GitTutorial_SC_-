@@ -1,4 +1,4 @@
-# author: SC
+# author: Agnes Hoffmann
 # project: github tutorial
 # ---
 
